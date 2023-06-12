@@ -1,0 +1,13 @@
+.git
+
+.editorconfig
+
+/node_modules
+
+/docs
+
+/gitingore
+
+*.zip
+
+*.md
